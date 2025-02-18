@@ -1,0 +1,201 @@
+Rank,Name,Country,Established,Academic Staff,Number of Students,Minimum Tuition cost,Volumes in the library,Endowment
+1, Massachusetts Institute of Technology,us,1861,1069,11920,"$50,000.00",1351391,$24.6B
+2, Harvard University,us,1636,2400,21613,"$50,000.00",14440248,$50.7B
+3, Stanford University,us,1885,2323,17529,"$50,000.00",6625926,$36.5B
+4, Cornell University,us,1865,1639,26284,"$50,000.00",5270855,$10.7B
+5," University of California, Berkeley",us,1868,,45307,"$12,500.00",7718398,$7.4B
+6, University of Michigan,us,1817,8189,52065,"$15,000.00",11963205,$19.2B
+7, University of Washington,us,1861,5803,50097,"$10,000.00",5328078,$6.62B
+8, Columbia University in the City of New York,us,1754,4628,36649,"$50,000.00",10966064,$14.8B
+9," University of California, Los Angeles",us,1919,7941,48048,"$12,500.00",14166096,$7.7B
+10, Yale University,us,1701,5499,12093,"$50,000.00",8788525,$41.4B
+11, University of Pennsylvania,us,1740,4793,23374,"$50,000.00",5195303,$22.3B
+12, University of Wisconsin-Madison,us,1848,2220,48557,"$10,000.00",4743387,$4B
+13, The University of Texas at Austin,us,1883,3254,52384,"$10,000.00",5210114,$19.72B
+14, University of Chicago,us,1891,2859,18452,"$50,000.00",5562134,$10.4B
+15, Princeton University,us,1746,1068,8478,"$50,000.00",7823350,$35.8B
+16, University of Minnesota Twin Cities,us,1851,4823,54890,"$15,000.00",4133437,$5.366B
+17, Purdue University,us,1869,2974,52211,"$7,500.00",953952,$4.1B
+18," University of California, Davis",us,1905,2175,40848,"$12,500.00",2197043,$2B
+19, University of Toronto,ca,1827,3246,64218,"$2,500.00",,$2.5B
+20," University of California, San Diego",us,1960,10810,43381,"$12,500.00",1461384,$1.36B
+21, Johns Hopkins University,us,1876,,30549,"$50,000.00",2189759,$13B
+22, New York University,us,1831,9835,59144,"$50,000.00",3071277,$6.7B
+23, Penn State University,us,1855,8002,89816,"$17,500.00",3325427,$4.5B
+24, University of Florida,us,1853,8231,54814,"$5,000.00",4369176,$2.337B
+25, Michigan State University,us,1855,5703,52089,"$15,000.00",3653771,$4.4B
+26, University of Southern California,us,1880,4767,49318,"$50,000.00",3461030,$7.6B
+27, University of North Carolina at Chapel Hill,us,1789,4234,32234,"$7,500.00",3876572,$5.1B
+28, Carnegie Mellon University,us,1900,1483,16335,"$50,000.00",665370,$3B
+29, The University of British Columbia,ca,1908,5696,44882,"$5,000.00",,$1.94B
+30, Arizona State University,us,1885,5300,57144,"$10,000.00",2432432,$1.59B
+31, Duke University,us,1838,3982,16780,"$50,000.00",3411287,$12.7B
+32, University of Maryland,us,1856,4474,40792,"$10,000.00",2159225,$2.1B
+33," Rutgers, The State University of New Jersey",us,1766,4314,68942,"$15,000.00",1756429,$1.99B
+34, University of Illinois Urbana-Champaign,us,1867,2548,59238,"$17,500.00",5879486,$3.38B
+35, The Ohio State University,us,1870,7310,60046,"$10,000.00",4273687,$7.9B
+36, University of Colorado Boulder,us,1876,3547,37153,"$12,500.00",3089850,$2.1B
+37, Texas A&M University,us,1876,3845,72982,"$10,000.00",2121425,$17.22B
+38, The University of Arizona,us,1885,3385,53187,"$10,000.00",2454980,$1.29B
+39," University of California, Irvine",us,1965,5343,37297,"$12,500.00",1757187,$0.79589B
+40, Northwestern University,us,1851,4018,22801,"$50,000.00",2848930,$13.7B
+41, University of Virginia,us,1819,3265,25944,"$17,500.00",3491094,$13.6B
+42, Boston University,us,1869,4309,37557,"$50,000.00",1304308,$3.5B
+43, North Carolina State University,us,1887,2464,37873,"$7,500.00",1479212,$2.03B
+44, The University of Utah,us,1850,4858,35236,"$7,500.00",2636251,$1.64B
+45, Indiana University Bloomington,us,1820,2149,48424,"$10,000.00",5138304,$3.32B
+46," University of California, Santa Barbara",us,1921,2749,26179,"$12,500.00",3848817,$0.57876B
+47, McGill University,ca,1821,3476,39513,"$2,500.00",,$1.46B
+48, Georgetown University,us,1789,1500,19005,"$50,000.00",1839683,$3.6B
+49, University of Pittsburgh,us,1787,5396,29927,"$20,000.00",3542833,$5.68B
+50, Washington University in St. Louis,us,1853,4415,17012,"$50,000.00",2093702,$11.5B
+51, Tufts University,us,1852,1288,13274,"$50,000.00",823755,$2.6B
+52, University of Nebraska-Lincoln,us,1869,1595,23986,"$7,500.00",1757277,$2.27B
+53, Virginia Polytechnic Institute and State University,us,1872,1395,36383,"$12,500.00",1229344,$1.7B
+54, Oregon State University,us,1868,,37121,"$10,000.00",1118518,$0.8299B
+55, Brigham Young University,us,1875,1264,35074,"$5,000.00",3936802,$3.08B
+56, University of Waterloo,ca,1957,1355,40513,"$5,000.00",,$0.34054B
+57, Georgia Institute of Technology,us,1885,1309,47961,"$12,500.00",411568,$2.97B
+58, University of Georgia,us,1785,3119,40607,"$10,000.00",4229493,$1.82B
+59, University of Rochester,us,1850,3253,12160,"$50,000.00",1743680,$3.32B
+60, Brown University,us,1764,848,10737,"$50,000.00",2697294,$7.2B
+61, California Institute of Technology,us,1891,300,2397,"$50,000.00",276273,$3.6B
+62, University of Iowa,us,1847,2296,32199,"$7,500.00",3478289,$3.3B
+63, Iowa State University,us,1858,1746,30432,"$7,500.00",1427102,$1.88B
+64, Colorado State University,us,1870,1468,33648,"$10,000.00",1196893,$0.5805B
+65," University of California, San Francisco",us,1864,3000,6032,,135535,$2.72B
+66, Simon Fraser University,ca,1965,1095,30380,"$5,000.00",,$0.41876B
+67, George Washington University,us,1821,2663,26457,"$50,000.00",1129492,$2.8B
+68, University of Massachusetts Amherst,us,1863,1550,31810,"$15,000.00",2123737,$0.579B
+69, George Mason University,us,1957,2133,40185,"$12,500.00",1134080,$0.1892B
+70, University of South Florida,us,1956,2253,48732,"$5,000.00",1023168,$0.7982B
+71, Washington State University,us,1890,2261,31471,"$10,000.00",1419196,$1.27B
+72, Florida State University,us,1851,2727,43701,"$5,000.00",1717698,$0.947B
+73, Vanderbilt University,us,1873,4783,13710,"$50,000.00",1933535,$10.2B
+74, University of Alberta,ca,1908,4004,43490,"$5,000.00",,$1.18B
+75, Syracuse University,us,1870,1848,22698,"$50,000.00",1570532,$1.9B
+76, University of Oregon,us,1876,1992,23202,"$12,500.00",1712818,$1.47B
+77, Emory University,us,1836,,15909,"$50,000.00",2447513,$11B
+78," University of California, Santa Cruz",us,1965,,19161,"$12,500.00",673789,$0.15336B
+79, University of Notre Dame,us,1844,1526,13174,"$50,000.00",2293784,$16.62B
+80, Dartmouth College,us,1769,943,6746,"$50,000.00",1587461,$7.9B
+81, University of Connecticut,us,1881,4624,32669,"$17,500.00",1408112,$0.634B
+82, University of Houston,us,1927,3263,46676,"$7,500.00",1591633,$0.78577B
+83," University at Buffalo, State University of New York",us,1846,2509,32347,"$10,000.00",1975468,$1B
+84, University of Kentucky,us,1865,,33885,"$12,500.00",2464840,$2.13B
+85, University of Illinois Chicago,us,1858,2961,33522,"$15,000.00",1895501,$0.803B
+86," University of California, Riverside",us,1954,1638,26809,"$12,500.00",4524786,$0.24987B
+87, Rice University,us,1891,680,8672,"$50,000.00",1910805,$7.814B
+88, York University,ca,1959,,55700,"$5,000.00",,$0.6327B
+89, University of Central Florida,us,1963,1906,69320,"$5,000.00",1702376,$0.2287B
+90, University of Missouri,us,1839,4215,31041,"$10,000.00",2332981,$1.42B
+91, Georgia State University,us,1913,1586,50521,"$7,500.00",1062996,$0.1708B
+92, Northeastern University,us,1898,3049,38760,"$50,000.00",521531,$1.3B
+93, University of Calgary,ca,1966,1848,36330,"$5,000.00",,$0.81B
+94, University of Kansas,us,1865,1566,13763,"$10,000.00",5906680,$2.36B
+95, University of Delaware,us,1743,1328,24221,"$15,000.00",3343094,$1.78B
+96, McMaster University,ca,1887,992,37589,"$2,500.00",,$0.62897B
+97," The University of Tennessee, Knoxville",us,1794,1700,38728,"$12,500.00",1562649,$1.01B
+98, University of New Mexico,us,1889,,25441,"$7,500.00",3928765,$0.5773B
+99, University of Miami,us,1925,3513,19593,"$50,000.00",1762243,$1.37B
+100, University of North Texas,us,1890,3327,46940,"$10,000.00",1402690,$0.3408B
+101, Western University,ca,1878,1432,36205,"$5,000.00",,$0.9B
+102, Université de Montréal,ca,1878,7329,66972,"$1,000.00",,$0.27898B
+103, University of South Carolina,us,1801,1604,38000,"$12,500.00",1756797,$0.989B
+104, University of Victoria,ca,1963,900,22060,"$2,500.00",,$0.36338B
+105, Boston College,us,1863,1848,15106,"$50,000.00",1495059,$3.3B
+106, Louisiana State University,us,1860,1500,37354,"$10,000.00",2755252,$0.6642B
+107, Florida International University,us,1965,7665,54085,"$5,000.00",1356769,$0.276B
+108, San Diego State University,us,1897,2135,37539,"$7,500.00",1200643,$0.4157B
+109, Temple University,us,1884,2125,30005,"$15,000.00",1863984,$0.839B
+110, Drexel University,us,1891,,24205,"$50,000.00",293120,$0.966B
+111, University of Cincinnati,us,1819,3789,53235,"$10,000.00",2837726,$1.92B
+112, Clemson University,us,1889,2103,28747,"$15,000.00",721652,$0.994B
+113, University of New Hampshire,us,1866,997,14784,"$17,500.00",992229,$0.4751B
+114, Rochester Institute of Technology,us,1829,1547,20570,"$50,000.00",312388,$1.274B
+115, University of Vermont,us,1791,4125,14088,"$17,500.00",1179730,$0.896B
+116, Utah State University,us,1888,1101,28900,"$7,500.00",1238984,$0.5384B
+117, Université Laval,ca,1852,,47690,"$1,000.00",,$0.26094B
+118, Queen's University,ca,1841,3925,33842,"$5,000.00",,$0.98B
+119, American University,us,1893,,13019,"$50,000.00",795299,$1.032B
+120, Case Western Reserve University,us,1826,1182,12475,"$50,000.00",1184207,$2.397B
+121, Fordham University,us,1841,747,16556,"$50,000.00",1099406,$0.972B
+122, Virginia Commonwealth University,us,1838,3279,28919,"$15,000.00",1357099,$2.72B
+123, The University of Oklahoma,us,1890,3752,34523,"$7,500.00",4359162,$1.81B
+124, Oklahoma State University,us,1890,1337,26805,"$7,500.00",1977786,$1.004B
+125, The University of Alabama,us,1831,1986,39622,"$10,000.00",2070476,$1.22B
+126, Toronto Metropolitan University,ca,1948,,47350,"$5,000.00",,$0.9433B
+127, West Virginia University,us,1867,1870,24200,"$7,500.00",1233721,$0.58392B
+128, Portland State University,us,1946,1951,21040,"$7,500.00",1071878,$0.6783B
+129, Auburn University,us,1856,1432,34195,"$10,000.00",1660975,$1.1B
+130, Rensselaer Polytechnic Institute,us,1824,488,8142,"$50,000.00",257853,$0.59803B
+131, University of Ottawa,ca,1848,2911,48800,"$5,000.00",,$0.22239B
+132, Tulane University,us,1834,1200,14027,"$50,000.00",1829754,$2.11B
+133, The University of Tennessee at Martin,us,1927,835,6873,"$7,500.00",280228,$0.051B
+134, Carleton University,ca,1942,5328,30760,"$5,000.00",,$0.25015B
+135, University of Alabama at Birmingham,us,1969,3096,24259,"$7,500.00",909616,$1B
+136, Wayne State University,us,1868,2320,23964,"$15,000.00",1561853,$0.507B
+137," University at Albany, State University of New York",us,1844,675,16658,"$10,000.00",1281987,$0.1009B
+138, Southern New Hampshire University,us,1932,161,3913,"$15,000.00",97859,$0.04B
+139, Baylor University,us,1845,1167,20824,"$50,000.00",1262208,$1.97B
+140, University of Arkansas,us,1871,1490,32140,"$7,500.00",1053333,$1.7B
+141," University of Maryland, Baltimore County",us,1966,1288,14148,"$10,000.00",893083,$0.1671B
+142, Texas Tech University,us,1923,2094,40969,"$10,000.00",2988821,$2.23B
+143, San José State University,us,1857,2179,36062,"$7,500.00",836298,$0.2508B
+144, University of North Carolina at Charlotte,us,1946,1456,30298,"$5,000.00",761111,$0.3445B
+145, Mississippi State University,us,1878,1359,22649,"$7,500.00",1973248,$0.6982B
+146, San Francisco State University,us,1899,1822,22029,"$5,000.00",914530,$0.1614B
+147, The University of Texas MD Anderson Cancer Center,us,1941,,,"$5,000.00",12028,
+148, Dalhousie University,ca,1818,867,20970,"$7,500.00",,$0.47171B
+149, University of Saskatchewan,ca,1907,,26694,"$2,500.00",,$0.35238B
+150, University of Guelph,ca,1964,830,29923,"$7,500.00",,$0.30801B
+151, Brandeis University,us,1948,544,5302,"$50,000.00",998146,$1.26B
+152, University of Wisconsin-Milwaukee,us,1885,684,22937,"$7,500.00",255496,$0.323B
+153, Southern Methodist University,us,1911,1151,12116,"$50,000.00",1548747,$2.12B
+154, Marquette University,us,1881,1200,11200,"$45,000.00",1278386,$0.9168B
+155, Kansas State University,us,1863,1404,20295,"$10,000.00",1119164,$0.95228B
+156, Kent State University,us,1910,2623,25630,"$10,000.00",1148534,$0.3014B
+157, University of Manitoba,ca,1877,5252,30370,"$2,500.00",,$0.878B
+158," University of Nevada, Reno",us,1874,1082,20945,"$7,500.00",666944,$0.458B
+159, Concordia University,ca,1974,4439,49898,"$2,500.00",,$0.23811B
+160, Stony Brook University,us,1957,3027,25710,"$10,000.00",1445527,$0.3905B
+161, DePaul University,us,1898,862,21348,"$40,000.00",547711,$0.9076B
+162," California State University, Northridge",us,1958,2187,36368,"$5,000.00",734260,$0.2294B
+163, University of Denver,us,1864,782,13384,"$50,000.00",1369915,$1.02B
+164, Liberty University,us,1971,3810,96709,"$15,000.00",356288,$2.1B
+165, College of William & Mary,us,1693,738,9517,"$20,000.00",1193559,$1.5B
+166," University of Nevada, Las Vegas",us,1957,1000,31142,"$7,500.00",923019,$0.3884B
+167, Northern Illinois University,us,1895,,15649,"$12,500.00",2694413,$0.0998B
+168, Florida Atlantic University,us,1961,1600,23683,"$2,500.00",866328,$0.285B
+169, Oregon Health & Science University,us,1887,,4123,"$20,000.00",77495,$0.8297B
+170, Michigan Technological University,us,1885,477,7009,"$17,500.00",372947,$0.15152B
+171, The University of Texas at Dallas,us,1969,2784,30885,"$12,500.00",1210008,$0.859B
+172," California Polytechnic State University, San Luis Obispo",us,1901,1469,21497,"$10,000.00",262469,$0.2853B
+173, New Mexico State University,us,1888,2519,21694,"$5,000.00",900976,$0.3433B
+174, Montana State University,us,1893,1370,17144,"$7,500.00",491618,$0.264B
+175, Quinnipiac University,us,1929,350,9744,"$50,000.00",116951,$0.674B
+176, United States Military Academy,us,1802,580,4294,,461198,$0.422B
+177, Loyola University Chicago,us,1870,784,17159,"$45,000.00",925437,$1.15B
+178, University of Rhode Island,us,1892,675,18061,"$15,000.00",934078,$0.203B
+179, Santa Clara University,us,1851,911,9178,"$50,000.00",562054,$1.47B
+180, University of Idaho,us,1889,,11849,"$7,500.00",893707,$0.465B
+181, Northern Arizona University,us,1899,1115,28194,"$10,000.00",574260,$0.1982B
+182, Indiana University-Purdue University Indianapolis,us,1969,2500,29390,"$10,000.00",2584030,$1.15B
+183, Université du Québec à Montréal,ca,1969,3267,39427,"$1,000.00",,$0.1982B
+184, University of Wyoming,us,1886,1002,10813,"$5,000.00",1580593,$0.7761B
+185, University of Louisville,us,1798,1787,23225,"$10,000.00",464874,$0.918B
+186, University of Missouri-Kansas City,us,1933,661,15327,"$10,000.00",820086,$0.20414B
+187, Swarthmore College,us,1864,207,1699,"$50,000.00",695831,$2.7B
+188," Binghamton University, State University of New York",us,1946,768,18454,"$10,000.00",1694157,$0.18B
+189, The University of Maine,us,1865,578,10878,"$10,000.00",1598021,$0.4449B
+190, Grand Canyon University,us,1949,6351,101816,"$15,000.00",39905,
+191, Wake Forest University,us,1834,,9121,"$50,000.00",975291,$1.86B
+192, University of Mississippi,us,1848,,24710,"$7,500.00",1507663,$0.84B
+193, Bowling Green State University,us,1910,1982,20395,"$12,500.00",858757,$0.1557B
+194, Middle Tennessee State University,us,1911,1223,20488,"$7,500.00",658925,$0.1089B
+195, Saint Louis University,us,1818,2022,15204,,,$1.71B
+196," University of Maryland, Baltimore",us,1807,2321,6239,"$10,000.00",246706,$1.5B
+197, Western Michigan University,us,1903,751,17605,"$12,500.00",1513540,$0.6402B
+198, Baylor College of Medicine,us,1900,5486,1577,,122927,$1.6B
+199, The New School,us,1919,2230,10186,"$50,000.00",288816,$0.3935B
+200, Nova Southeastern University,us,1964,1676,20576,"$30,000.00",520098,$0.185B
